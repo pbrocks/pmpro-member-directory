@@ -9,5 +9,5 @@ Context: PMPro Member Directory .5.1 checks either the active theme directory or
    - path to the active theme's folders
    - path to the PMPro Customizations plugin
    - custom path as defined by a filter, with the Customizations plugin path as the default backup
-   - `pmpromd_get_profile_file` checks each path to see if a `profile.php` exists and selects the last one it finds.
-   - `pmpromd_get_directory_file` checks each path to see if a `directory.php` exists and selects the last one it finds.
+ - `pmpromd_get_profile_file` checks each path to see if a `profile.php` exists and selects the last one it finds.
+ - `pmpromd_get_directory_file` checks each path to see if a `directory.php` exists and selects the last one it finds.
